@@ -1,6 +1,9 @@
 <Solution>
-  <Project Path="Task-2-5-a-en/Task-2-5-a-en.vbproj" />
-  <Project Path="Task-2-5-a-ru/Task-2-5-a-ru.vbproj" />
-  <Project Path="Task-2-5-b-en/Task-2-5-b-en.vbproj" />
-  <Project Path="Task-2-5-b-ru/Task-2-5-b-ru.vbproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="Task-2-5.txt" />
+  </Folder>
+  <Project Path="Task-2-5-a-en/Task-2-5-a-en.vbproj" Id="e0f938ed-e7e3-42ca-b681-4fbe5b2d976e" />
+  <Project Path="Task-2-5-a-ru/Task-2-5-a-ru.vbproj" Id="f93a9e24-e487-45bc-aa42-1fdc10b25155" />
+  <Project Path="Task-2-5-b-en/Task-2-5-b-en.vbproj" Id="10095758-b334-40c2-b0cd-4c8ae00e2291" />
+  <Project Path="Task-2-5-b-ru/Task-2-5-b-ru.vbproj" Id="774d9d11-4e2e-46ed-93f7-32f99b4d8d47" />
 </Solution>
